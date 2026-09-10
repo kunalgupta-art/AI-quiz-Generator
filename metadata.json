@@ -1,0 +1,6 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "Generate and practice custom multiple choice quizzes (MCQ) on any topic with instant feedback and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
